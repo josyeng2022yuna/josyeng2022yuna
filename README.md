@@ -8,8 +8,8 @@
 -->
 <div align="center">
   <a href="https://github.com/josyeng2022yuna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyeng2022yuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyeng2022yuna&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyeng2022yuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyeng2022yuna&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Josi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Josi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Josi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Josi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_OjS0jrXB.png">
+  <img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_9bueUZ6b.png">
 </div>
 
 ##

@@ -1,4 +1,5 @@
-##Oiê, eu sou Josiane, Manaura 39 anos, Engenheira 
+##Oiê, eu sou Josiane, Manaura 39 anos, Engenheira 🖖
+- 💻🚀🛸
 
 - 🔭 Atualmente estou em busca de trabalho na area da tecnologia
 - 🌱 Estou aprendendo, Python. Web x React, Flutter x Dark 

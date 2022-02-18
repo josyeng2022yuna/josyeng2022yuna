@@ -7,8 +7,8 @@
 - ⚡ Curiosidades: Graduada em Engenharia de produção e vou me especializar em Engenharia de Softwer. 
 -->
 <div align="center">
-  <a href="https://github.com/josyeng2022yuna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyeng2022yuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyeng2022yuna&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/josyeng2022yuna">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyeng2022yuna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyeng2022yuna&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
 <div style="display: inline_block"><br>

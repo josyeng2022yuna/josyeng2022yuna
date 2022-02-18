@@ -1,4 +1,4 @@
-##Olá, eu sou Josiane 
+##Oiê, eu sou Josiane,Manaura 39 anos, Engenheira 
 
 - 🔭 Atualmente estou em busca de trabalho na area da tecnologia
 - 🌱 Estou aprendendo, Python. Web x React, Flutter x Dark 
@@ -23,13 +23,10 @@
 
 ##
 
- </div>
- 
+</div>
   <a href="https://discord.gg/josy#0840" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josylima.2702.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josiane-lima-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/josianelimadeoliveira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/josyeng2022yuna/josyeng2022yuna/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

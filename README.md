@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou em busca de trabalho na area da tecnologia, como Front-End Jr ou Full Stack
 - 🌱 Estou aprendendo, Python, Web x React, Flutter x Dart
 - 👯 Estou procurando colaborar com projetos de bootcamps de algumas empresa
-- 🤔 Estou procurando ajuda em JavaScript quero aprender um pouco
+- 🤔 Estou procurando ajuda em JavaScript quero aprender + um pouco
 - ⚡ Curiosidades: Graduada em Engenharia de produção e vou me especializar em Engenharia de Softwer. 
 <div align="center">
   <a href="https://github.com/josyeng2022yuna">
